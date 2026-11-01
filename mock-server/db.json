@@ -1,0 +1,23 @@
+{
+  "students": [
+    { "id": 1, "firstName": "Aigerim", "lastName": "Asanova", "email": "aigerim@uni.example", "group": "IS-21", "phone": "+996 555 123 456", "createdAt": "2026-09-01T09:00:00Z" },
+    { "id": 2, "firstName": "Bakyt", "lastName": "Toktogulov", "email": "bakyt@uni.example", "group": "IS-21", "createdAt": "2026-09-01T09:05:00Z" },
+    { "id": 3, "firstName": "Nurzat", "lastName": "Kadyrova", "email": "nurzat@uni.example", "group": "IS-22", "phone": "+996 700 111 222", "createdAt": "2026-09-01T09:10:00Z" },
+    { "id": 4, "firstName": "Emir", "lastName": "Abdyldaev", "email": "emir@uni.example", "group": "IS-22", "createdAt": "2026-09-01T09:15:00Z" },
+    { "id": 5, "firstName": "Saikal", "lastName": "Osmonova", "email": "saikal@uni.example", "group": "IS-23", "phone": "+996 777 333 444", "createdAt": "2026-09-01T09:20:00Z" }
+  ],
+  "courses": [
+    { "id": 1, "code": "CS101", "title": "Введение в программирование", "credits": 4, "category": "CS", "teacherId": 1, "feeKgs": 12000, "isPublished": true, "createdAt": "2026-08-25T10:00:00Z" },
+    { "id": 2, "code": "CS302", "title": "Клиент-серверные приложения", "credits": 5, "category": "CS", "teacherId": 1, "feeKgs": 15000, "isPublished": true, "createdAt": "2026-08-25T10:05:00Z" },
+    { "id": 3, "code": "MAT201", "title": "Дискретная математика", "credits": 3, "category": "MATH", "teacherId": 2, "feeKgs": 9000, "isPublished": true, "createdAt": "2026-08-26T11:00:00Z" },
+    { "id": 4, "code": "ENG110", "title": "Английский для IT", "credits": 2, "category": "LANGUAGES", "teacherId": 3, "feeKgs": 6000, "isPublished": false, "createdAt": "2026-08-27T12:00:00Z" },
+    { "id": 5, "code": "CS210", "title": "Алгоритмы и структуры данных", "credits": 5, "category": "CS", "teacherId": 4, "feeKgs": 14000, "isPublished": true, "createdAt": "2026-08-27T12:30:00Z" },
+    { "id": 6, "code": "MAT105", "title": "Линейная алгебра", "credits": 4, "category": "MATH", "teacherId": 2, "feeKgs": 10000, "isPublished": true, "createdAt": "2026-08-28T08:00:00Z" },
+    { "id": 7, "code": "CS330", "title": "Базы данных", "credits": 5, "category": "CS", "teacherId": 4, "feeKgs": 15000, "isPublished": true, "createdAt": "2026-08-28T08:20:00Z" },
+    { "id": 8, "code": "GEN100", "title": "История Кыргызстана", "credits": 2, "category": "GENERAL", "teacherId": 5, "feeKgs": 5000, "isPublished": true, "createdAt": "2026-08-28T09:00:00Z" },
+    { "id": 9, "code": "KG120", "title": "Кыргызский язык", "credits": 3, "category": "LANGUAGES", "teacherId": 5, "feeKgs": 5500, "isPublished": true, "createdAt": "2026-08-28T09:30:00Z" },
+    { "id": 10, "code": "CS410", "title": "Компьютерные сети", "credits": 4, "category": "CS", "teacherId": 1, "feeKgs": 13000, "isPublished": false, "createdAt": "2026-08-29T10:00:00Z" },
+    { "id": 11, "code": "MAT310", "title": "Теория вероятностей", "credits": 4, "category": "MATH", "teacherId": 2, "feeKgs": 9500, "isPublished": true, "createdAt": "2026-08-29T10:30:00Z" },
+    { "id": 12, "code": "GEN150", "title": "Философия", "credits": 2, "category": "GENERAL", "teacherId": 3, "feeKgs": 4500, "isPublished": true, "createdAt": "2026-08-29T11:00:00Z" }
+  ]
+}
