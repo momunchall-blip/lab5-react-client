@@ -90,4 +90,3 @@ client/src/
 | Сервер недоступен ![Ошибка](docs/screenshots/03_error.png) | Новый курс ![Форма](docs/screenshots/05_form_new.png) |
 | Ошибка сервера 409 ![409](docs/screenshots/07_form_server_error.png) | Страница 404 ![404](docs/screenshots/09_not_found.png) |
 
-Данные на скриншотах вымышленные.
